@@ -1,1 +1,1 @@
-My Switch App
+My Switch App with black and white
